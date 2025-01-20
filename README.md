@@ -1,2 +1,2 @@
-# ADM_2025
+# ADM-2025
 Applications of Data Mining
